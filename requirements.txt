@@ -1,0 +1,9 @@
+numpy<1.19.0 ###for tensorflow compatibility
+scipy==1.4.1 ###for tensorflow compatibility
+pandas
+matplotlib
+scikit-learn
+tensorflow
+lightgbm
+xgboost
+pyriemann
